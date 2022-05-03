@@ -1,5 +1,7 @@
-# FIFA22
+## FIFA22 player rankings
 
-Taking a look at player ranking data from FIFA 2022. 
+* First analysis was on attacking players in the English Premier League
+* Utilized hierarchical as well as k-means clustering to see player groupings
+* Completed factor analysis of the data to determine important features 
 
-First round is attacking players in the English Premier League
+
